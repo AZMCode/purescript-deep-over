@@ -1,0 +1,19 @@
+{
+    "name": "newtype-lift",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "nwolverson.ide-purescript",
+                "nwolverson.language-purescript"
+            ],
+            "settings": {
+                "editor.detectIndentation": true,
+                "editor.indentSize": 4,
+                "editor.insertSpaces": true
+            }
+        }
+    }
+}
