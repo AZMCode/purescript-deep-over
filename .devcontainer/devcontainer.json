@@ -1,5 +1,5 @@
 {
-    "name": "newtype-lift",
+    "name": "deep-over",
     "build": {
         "dockerfile": "Dockerfile"
     },

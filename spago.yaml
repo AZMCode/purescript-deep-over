@@ -1,0 +1,19 @@
+package:
+  name: deep-over
+  publish:
+    version: 0.1.0
+    license: MIT
+  dependencies:
+    - console
+    - effect
+    - prelude
+    - record
+    - bifunctors
+    - profunctor
+  test:
+    main: Test.Main
+    dependencies: []
+workspace:
+  packageSet:
+    registry: 60.6.0
+  extraPackages: {}
